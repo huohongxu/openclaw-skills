@@ -1,0 +1,15 @@
+{
+  "name": "paper-design",
+  "version": "1.0.0",
+  "description": "Paper Design - AI 驱动的设计画布，支持 MCP 连接",
+  "author": "huohongxu",
+  "tags": ["design", "mcp", "ai", "figma", "web", "html", "css"],
+  "triggers": [
+    "paper",
+    "paper.design",
+    "mcp design",
+    "design to code",
+    "figma sync",
+    "ai design"
+  ]
+}
