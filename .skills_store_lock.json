@@ -786,6 +786,42 @@
       "zip_url": "https://lightmake.site/api/v1/download?slug=90daysofdevops",
       "source": "skillhub",
       "version": "1.0.0"
+    },
+    "animations": {
+      "name": "Animations",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=animations",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "auto-animate": {
+      "name": "Auto Animate",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=auto-animate",
+      "source": "skillhub",
+      "version": "0.1.0"
+    },
+    "lb-motion-skill": {
+      "name": "Motion.dev Complete Documentation",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=lb-motion-skill",
+      "source": "skillhub",
+      "version": "0.1.0"
+    },
+    "ui-ux-design": {
+      "name": "UI/UX Design Guide",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=ui-ux-design",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "awwwards-design": {
+      "name": "Awwwards Design",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=awwwards-design",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "proto-cog": {
+      "name": "proto-cog",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=proto-cog",
+      "source": "skillhub",
+      "version": "1.0.1"
     }
   }
 }
