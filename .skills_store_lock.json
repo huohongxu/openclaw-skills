@@ -648,6 +648,144 @@
       "zip_url": "https://lightmake.site/api/v1/download?slug=mermaid-architect",
       "source": "skillhub",
       "version": "1.0.0"
+    },
+    "react-expert": {
+      "name": "React Expert",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=react-expert",
+      "source": "skillhub",
+      "version": "0.1.0"
+    },
+    "nextjs-expert": {
+      "name": "Nextjs Expert",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=nextjs-expert",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "database-designer": {
+      "name": "Database Designer",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=database-designer",
+      "source": "skillhub",
+      "version": "2.1.1"
+    },
+    "security-auditor": {
+      "name": "Security Auditor",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=security-auditor",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "test-master": {
+      "name": "Test Master",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=test-master",
+      "source": "skillhub",
+      "version": "0.1.0"
+    },
+    "sysadmin-toolbox": {
+      "name": "Sysadmin Toolbox",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=sysadmin-toolbox",
+      "source": "skillhub",
+      "version": "1.1.0"
+    },
+    "self-improving-agent": {
+      "name": "self-improving-agent",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=self-improving-agent",
+      "source": "skillhub",
+      "version": "1.0.11"
+    },
+    "frontend-design-ultimate": {
+      "name": "Frontend Design Ultimate",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=frontend-design-ultimate",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "nodejs-patterns": {
+      "name": "Nodejs Patterns",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=nodejs-patterns",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "dotnet-expert": {
+      "name": "Dotnet Expert",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=dotnet-expert",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "supabase": {
+      "name": "Supabase",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=supabase",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "moltguard": {
+      "name": "MoltGuard - OpenClaw Security Plugin by OpenGuardrails",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=moltguard",
+      "source": "skillhub",
+      "version": "6.6.17"
+    },
+    "devops-bridge": {
+      "name": "DevOps Bridge",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=devops-bridge",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "code-review": {
+      "name": "Code Review",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=code-review",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "triple-memory": {
+      "name": "Triple Memory",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=triple-memory",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "proactive-agent": {
+      "name": "Proactive Agent",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=proactive-agent",
+      "source": "skillhub",
+      "version": "3.1.0"
+    },
+    "frontend-design-extractor": {
+      "name": "Frontend Design Extractor",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=frontend-design-extractor",
+      "source": "skillhub",
+      "version": "1.0.1"
+    },
+    "database-manager": {
+      "name": "Database Manager",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=database-manager",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "security-audit-toolkit": {
+      "name": "Security Audit Toolkit",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=security-audit-toolkit",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "e2e-testing-patterns": {
+      "name": "E2E Testing Patterns",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=e2e-testing-patterns",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "react-native": {
+      "name": "React Native",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=react-native",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "prometheus-devops": {
+      "name": "Prometheus",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=prometheus-devops",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "90daysofdevops": {
+      "name": "90daysofdevops",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=90daysofdevops",
+      "source": "skillhub",
+      "version": "1.0.0"
     }
   }
 }
