@@ -1,0 +1,653 @@
+{
+  "version": 1,
+  "skills": {
+    "summarize": {
+      "name": "Summarize",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=summarize",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "github": {
+      "name": "Github",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=github",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "frontend": {
+      "name": "Frontend Design",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=frontend",
+      "source": "skillhub",
+      "version": "1.0.2"
+    },
+    "backend": {
+      "name": "Backend",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=backend",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "mobile": {
+      "name": "Mobile",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=mobile",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "backend-patterns": {
+      "name": "Backend Patterns",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=backend-patterns",
+      "source": "skillhub",
+      "version": "0.1.2"
+    },
+    "mobile-app-builder": {
+      "name": "Mobile App Builder",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=mobile-app-builder",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "frontend-design-pro": {
+      "name": "Frontend Design Pro — 专业前端设计规范",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=frontend-design-pro",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "java": {
+      "name": "Java",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=java",
+      "source": "skillhub",
+      "version": "1.0.1"
+    },
+    "react": {
+      "name": "React",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=react",
+      "source": "skillhub",
+      "version": "1.0.4"
+    },
+    "android": {
+      "name": "Android",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=android",
+      "source": "skillhub",
+      "version": "1.0.1"
+    },
+    "vue": {
+      "name": "Vue",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=vue",
+      "source": "skillhub",
+      "version": "1.0.1"
+    },
+    "swift": {
+      "name": "Swift",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=swift",
+      "source": "skillhub",
+      "version": "1.0.1"
+    },
+    "swift-expert": {
+      "name": "Swift Expert",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=swift-expert",
+      "source": "skillhub",
+      "version": "0.1.0"
+    },
+    "spring-boot-engineer": {
+      "name": "Spring Boot Engineer",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=spring-boot-engineer",
+      "source": "skillhub",
+      "version": "0.1.0"
+    },
+    "vue-expert": {
+      "name": "Vue Expert",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=vue-expert",
+      "source": "skillhub",
+      "version": "0.1.0"
+    },
+    "redis-store": {
+      "name": "Redis",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=redis-store",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "mysql": {
+      "name": "MySQL",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=mysql",
+      "source": "skillhub",
+      "version": "1.0.1"
+    },
+    "mongodb": {
+      "name": "MongoDB",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=mongodb",
+      "source": "skillhub",
+      "version": "1.0.1"
+    },
+    "pg": {
+      "name": "PostgreSQL",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=pg",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "sql": {
+      "name": "SQL",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=sql",
+      "source": "skillhub",
+      "version": "1.0.1"
+    },
+    "sql-toolkit": {
+      "name": "SQL Toolkit",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=sql-toolkit",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "java-development-manual": {
+      "name": "Java Development Manual",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=java-development-manual",
+      "source": "skillhub",
+      "version": "0.1.0"
+    },
+    "database-design": {
+      "name": "Database Design",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=database-design",
+      "source": "skillhub",
+      "version": "2.3.5"
+    },
+    "afrexai-database-engineer": {
+      "name": "Database Engineering Mastery",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=afrexai-database-engineer",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "docker-compose-generator": {
+      "name": "Docker Compose Generator",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=docker-compose-generator",
+      "source": "skillhub",
+      "version": "1.0.1"
+    },
+    "fullstack-dev-engineer": {
+      "name": "fullstack-dev-engineer",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=fullstack-dev-engineer",
+      "source": "skillhub",
+      "version": "0.0.1"
+    },
+    "docker": {
+      "name": "Docker",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=docker",
+      "source": "skillhub",
+      "version": "1.0.4"
+    },
+    "fullstack-developer": {
+      "name": "Fullstack Developer",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=fullstack-developer",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "docker-compose": {
+      "name": "Docker Compose",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=docker-compose",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "fullstack-project-creator": {
+      "name": "fullstack-project-creator",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=fullstack-project-creator",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "design-to-code": {
+      "name": "Design To Code",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=design-to-code",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "vibe-design": {
+      "name": "Vibe Design",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=vibe-design",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "ui-design": {
+      "name": "UI Design",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=ui-design",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "figma": {
+      "name": "Figma",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=figma",
+      "source": "skillhub",
+      "version": "2.1.0"
+    },
+    "ui-design-system": {
+      "name": "Ui Design System",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=ui-design-system",
+      "source": "skillhub",
+      "version": "2.1.1"
+    },
+    "ui-ux-pro-max": {
+      "name": "UI/UX Pro Max",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=ui-ux-pro-max",
+      "source": "skillhub",
+      "version": "0.1.0"
+    },
+    "superdesign": {
+      "name": "SuperDesign",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=superdesign",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "ui-ux-dev": {
+      "name": "UI/UX Design and Development",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=ui-ux-dev",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "product-manager": {
+      "name": "Product Manager",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=product-manager",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "product-manager-toolkit": {
+      "name": "Product Manager Toolkit",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=product-manager-toolkit",
+      "source": "skillhub",
+      "version": "2.1.1"
+    },
+    "imbeasting-test-driven-development": {
+      "name": "test-driven-development",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=imbeasting-test-driven-development",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "test-generator": {
+      "name": "Test Generator",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=test-generator",
+      "source": "skillhub",
+      "version": "2.4.5"
+    },
+    "qa-testing-bots": {
+      "name": "Automated QA Testing Bots",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=qa-testing-bots",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "test-publish-check": {
+      "name": "Test Publish Check",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=test-publish-check",
+      "source": "skillhub",
+      "version": "2.3.5"
+    },
+    "test-patterns": {
+      "name": "Test Patterns",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=test-patterns",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "senior-qa": {
+      "name": "Senior Qa",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=senior-qa",
+      "source": "skillhub",
+      "version": "2.1.1"
+    },
+    "playwright": {
+      "name": "Playwright (Automation + MCP + Scraper)",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=playwright",
+      "source": "skillhub",
+      "version": "1.0.3"
+    },
+    "jest-skill": {
+      "name": "Jest",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=jest-skill",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "test-case-generator": {
+      "name": "Test Case Generator",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=test-case-generator",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "playwright-pro": {
+      "name": "Playwright Pro",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=playwright-pro",
+      "source": "skillhub",
+      "version": "2.1.1"
+    },
+    "security-hardening": {
+      "name": "Security Hardening",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=security-hardening",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "security-best-practices": {
+      "name": "Security Best Practices",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=security-best-practices",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "ci-cd-pipeline": {
+      "name": "Ci Cd Pipeline",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=ci-cd-pipeline",
+      "source": "skillhub",
+      "version": "2.4.5"
+    },
+    "graphql": {
+      "name": "GraphQL",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=graphql",
+      "source": "skillhub",
+      "version": "1.0.1"
+    },
+    "python3": {
+      "name": "python",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=python3",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "api-dev": {
+      "name": "API Development",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=api-dev",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "critical-code-reviewer": {
+      "name": "Critical Code Reviewer",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=critical-code-reviewer",
+      "source": "skillhub",
+      "version": "0.1.0"
+    },
+    "scrape": {
+      "name": "Scrape",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=scrape",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "git-cli": {
+      "name": "Git cli",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=git-cli",
+      "source": "skillhub",
+      "version": "1.0.1"
+    },
+    "github-actions": {
+      "name": "GitHub Actions",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=github-actions",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "git-hooks-generator": {
+      "name": "Git Hooks Generator",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=git-hooks-generator",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "github-readme-generator": {
+      "name": "GitHub README Generator",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=github-readme-generator",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "github-gem-seeker": {
+      "name": "GitHub Gem Seeker",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=github-gem-seeker",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "code-reviewer-pro": {
+      "name": "Code Reviewer Pro",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=code-reviewer-pro",
+      "source": "skillhub",
+      "version": "2.3.5"
+    },
+    "code-documenter": {
+      "name": "Code Documenter",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=code-documenter",
+      "source": "skillhub",
+      "version": "0.1.0"
+    },
+    "code-planning-agent": {
+      "name": "Code Planning Agent",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=code-planning-agent",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "code-viewer": {
+      "name": "Code Viewer",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=code-viewer",
+      "source": "skillhub",
+      "version": "2.3.7"
+    },
+    "codex-review": {
+      "name": "Codex Review",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=codex-review",
+      "source": "skillhub",
+      "version": "2.1.0"
+    },
+    "code-security-auditor": {
+      "name": "Code Security Auditor",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=code-security-auditor",
+      "source": "skillhub",
+      "version": "1.3.0"
+    },
+    "claude-code-orchestrator": {
+      "name": "Claude Code Orchestrator (tmux-first)",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=claude-code-orchestrator",
+      "source": "skillhub",
+      "version": "0.2.0"
+    },
+    "trae-orchestrator": {
+      "name": "TRAE指挥官",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=trae-orchestrator",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "nerve-bridge-skill": {
+      "name": "Nerve Bridge Skill",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=nerve-bridge-skill",
+      "source": "skillhub",
+      "version": "v1.0.0"
+    },
+    "cursor": {
+      "name": "Cursor",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=cursor",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "cursor-agent": {
+      "name": "Cursor CLI Agent",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=cursor-agent",
+      "source": "skillhub",
+      "version": "2.1.0"
+    },
+    "miniprogram-development": {
+      "name": "WeChat 小程序(Mini Program) development",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=miniprogram-development",
+      "source": "skillhub",
+      "version": "1.1.0"
+    },
+    "github-trending": {
+      "name": "Github Trending",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=github-trending",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "hackernews": {
+      "name": "Hacker News",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=hackernews",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "product-hunt": {
+      "name": "Product Hunt",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=product-hunt",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "claude-code": {
+      "name": "Claude Code Integration",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=claude-code",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "claude-code-mastery": {
+      "name": "Claude Code Mastery",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=claude-code-mastery",
+      "source": "skillhub",
+      "version": "1.4.3"
+    },
+    "claude-code-pro": {
+      "name": "Claude Code Pro",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=claude-code-pro",
+      "source": "skillhub",
+      "version": "1.1.0"
+    },
+    "claude-code-control": {
+      "name": "Claude Code Control",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=claude-code-control",
+      "source": "skillhub",
+      "version": "1.2.0"
+    },
+    "claude-code-usage": {
+      "name": "Claude Code Usage",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=claude-code-usage",
+      "source": "skillhub",
+      "version": "1.2.0"
+    },
+    "superpowers": {
+      "name": "Superpowers Dev Workflow",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=superpowers",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "senior-architect": {
+      "name": "Senior Architect",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=senior-architect",
+      "source": "skillhub",
+      "version": "2.1.1"
+    },
+    "system-architect": {
+      "name": "System Architect",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=system-architect",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "architecture-patterns": {
+      "name": "Architecture Patterns",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=architecture-patterns",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "microservices-starter": {
+      "name": "Microservices Starter",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=microservices-starter",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "microservice-patterns": {
+      "name": "Microservice Patterns",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=microservice-patterns",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "senior-devops": {
+      "name": "Senior Devops",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=senior-devops",
+      "source": "skillhub",
+      "version": "2.1.1"
+    },
+    "kubernetes": {
+      "name": "Kubernetes",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=kubernetes",
+      "source": "skillhub",
+      "version": "1.0.1"
+    },
+    "k8s": {
+      "name": "Kubernetes",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=k8s",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "terraform-engineer": {
+      "name": "Terraform Engineer",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=terraform-engineer",
+      "source": "skillhub",
+      "version": "0.1.0"
+    },
+    "terraform": {
+      "name": "Terraform",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=terraform",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "aws-solution-architect": {
+      "name": "Aws Solution Architect",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=aws-solution-architect",
+      "source": "skillhub",
+      "version": "2.1.1"
+    },
+    "architecture-decision-records": {
+      "name": "Architecture Decision Records",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=architecture-decision-records",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "architecture-governance": {
+      "name": "Architecture Governance",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=architecture-governance",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "infra-as-code": {
+      "name": "Infrastructure as Code",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=infra-as-code",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "devops": {
+      "name": "DevOps",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=devops",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "forge": {
+      "name": "Forge",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=forge",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "software-architect": {
+      "name": "Software Architect",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=software-architect",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "senior-backend": {
+      "name": "Senior Backend",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=senior-backend",
+      "source": "skillhub",
+      "version": "2.1.1"
+    },
+    "cloud-devops": {
+      "name": "cumulative",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=cloud-devops",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "system-design-solver": {
+      "name": "system-design-solver2",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=system-design-solver",
+      "source": "skillhub",
+      "version": "2.0.0"
+    },
+    "quality-driven-dev": {
+      "name": "Quality-Driven Development (QDD)",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=quality-driven-dev",
+      "source": "skillhub",
+      "version": "1.1.0"
+    },
+    "architecture-designer": {
+      "name": "Architecture Designer",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=architecture-designer",
+      "source": "skillhub",
+      "version": "0.1.0"
+    },
+    "mermaid-architect": {
+      "name": "Mermaid Architect",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=mermaid-architect",
+      "source": "skillhub",
+      "version": "1.0.0"
+    }
+  }
+}
